@@ -23,5 +23,18 @@ a:visited {
   text-decoration: none;
 }
 
+.dsmeta-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
 
-/* CSS do index principal do projeto React. */
+/* margin: 0 auto;  -->  serve para alinhar o div ao centro. */
+
+#sales {
+  padding: 40px 10px;
+  /* Colocando somente duas medidas em px, será considerada a primeira medida na vertical e a segunda medida nas laterais. */
+}
+
+
+/* === CSS do index principal do projeto React. === */
