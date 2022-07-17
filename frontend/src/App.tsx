@@ -1,9 +1,12 @@
 import Header from "./components/Header";
 import SalesCard from "./components/SalesCard";
+import { ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 function App() {
   return (
     <>
+      <ToastContainer />
       <Header />
       <main>
         <section id="sales">
@@ -17,3 +20,7 @@ function App() {
 }
 
 export default App;
+
+// <ToastContainer />  ---  um componente do React-toastify
+// Declarando o <ToastContainer />, o React-toastify está provido na aplicação. Dessa forma em qualquer 
+// componente agora eu posso chamar a mensagem de confirmação na tela.
