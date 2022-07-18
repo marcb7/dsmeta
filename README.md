@@ -18,4 +18,5 @@
 - Implantação na nuvem com CI/CD
 
 
+
 ## Link 👉 https://dsmeta-listadevendas.netlify.app/
