@@ -1,11 +1,13 @@
 # DevSuperior - Semana Spring React 9.0 - Desenvolvimento do App DSMeta
 
-Tecnologias utilizadas
-API REST com Java e Spring Boot
-Banco de Dados com ORM
-Front end com ReactJS
-Integração com SMS - Twilio
-Implantação na nuvem com CI/CD
+>
+
+## Tecnologias utilizadas
+- API REST com Java e Spring Boot
+- Banco de Dados com ORM
+- Front end com ReactJS
+- Integração com SMS - Twilio
+- Implantação na nuvem com CI/CD
 
 # ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
 >  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
