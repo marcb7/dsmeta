@@ -1,6 +1,6 @@
 # DevSuperior - Semana Spring React 9.0 - Desenvolvimento do App DSMeta
 
-## Aplicação desenvolvida no evento online Semana Spring React de 11 a 17 de julho de 2022, realizado pelo Nelio Alves da DevSuperior.
+## Aplicação desenvolvida no evento online Semana Spring React 9.0, de 11 a 17 de julho de 2022, realizado pelo professor Nelio Alves da escola de programação DevSuperior.
 
 >
 
