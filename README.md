@@ -1,53 +1,21 @@
 # DevSuperior - Semana Spring React 9.0 - Desenvolvimento do App DSMeta
 
+## Aplicação desenvolvida no evento online Semana Spring React de 11 a 17 de julho de 2022, realizado pelo Nelio Alves da DevSuperior.
+
 >
 
+## Descrição do App:
+
+### - Nessa semana, foi desenvolvida uma aplicação que consiste em um relatório de vendas, contendo informações tais como data de cada venda, nome do vendedor, quantidade de visitas realizadas, número de vendas concretizadas e o valor total das vendas de cada vendedor no mês.
+
+### - As vendas podem ser filtradas por datas específicas, utilizando-se para isso o componente DatePicker. Em Notificar, botões de notificação são usados para enviar uma mensagem de sms ao celular dos vendedores informando-os sobre suas vendas, por meio da plataforma Twilio.
+
 ## Tecnologias utilizadas
+- Front end com ReactJS
 - API REST com Java e Spring Boot
 - Banco de Dados com ORM
-- Front end com ReactJS
 - Integração com SMS - Twilio
 - Implantação na nuvem com CI/CD
 
-# ![DevSuperior logo](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/devsuperior-logo-small.png) Semana Spring React
->  *Crie um app completo para seu portfólio com as tecnologias mais demandadas do mercado*
-
-## Realização
-[DevSuperior - Escola de programação](https://devsuperior.com.br)
-
-[![DevSuperior no Instagram](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/ig-icon.png)](https://instagram.com/devsuperior.ig)
-[![DevSuperior no Youtube](https://raw.githubusercontent.com/devsuperior/bds-assets/main/ds/yt-icon.png)](https://youtube.com/devsuperior)
-
-## Página de inscrição do evento
-- [Página de inscrição - Semana Spring React](https://devsuperior.com.br/sds-inscricao-org)
-
-## Guias de instalação das ferramentas
-- [Guia de instalação das ferramentas no Windows](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/windows)
-- [Guia de instalação das ferramentas no Linux](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/linux)
-- [Guia de instalação das ferramentas no Mac](https://github.com/devsuperior/sds-dsmeta/tree/main/_instalacao/mac)
-
-## Discord do evento para dúvidas e networking
-- [Discord da Semana Spring React](https://discord.gg/Gj4yyp5Kcn)
 
 
-## Conteúdos de preparação
-
-### 1) Git e Github para iniciantes
-
-[![Image](https://img.youtube.com/vi/_hZf1teRFNg/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/_hZf1teRFNg)
-
-### 2) Super revisão de OO e SQL
-
-[![Image](https://img.youtube.com/vi/xC_yKw3MYX4/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/xC_yKw3MYX4)
-
-### 3) Seu primeiro projeto Java web no Spring Boot
-
-[![Image](https://img.youtube.com/vi/D4frmIHAxEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/D4frmIHAxEY)
-
-### 4) JpaRepository: interface boladona do Spring
-
-[![Image](https://img.youtube.com/vi/jh_T5_o3qKE/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/jh_T5_o3qKE)
-
-### 5) ReactJS primeiros passos - Introdução Prática
-
-[![Image](https://img.youtube.com/vi/IOJoJGDowEY/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/IOJoJGDowEY)
